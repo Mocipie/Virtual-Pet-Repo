@@ -20,3 +20,9 @@ public class Cat extends Pet {
     public void purr() {
 	System.out.println(getName() + "  purrs happily!");
 }
+
+    public void sleep() {
+	System.out.println(getName() + " is sleeping.");
+}
+
+}
