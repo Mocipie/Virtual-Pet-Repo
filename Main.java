@@ -10,7 +10,11 @@ public class Main {
         Cat cat = new Cat("Luna");
 
 		// Print information about the pets
+<<<<<<< HEAD
         System.out.println("Wheres the lunch :(");
+=======
+        System.out.println("Im so hungryyyyy.... i wish i had a fre bag of chipsss.");
+>>>>>>> 9ee1f2f806fb1e085fa2ecf0710d72bab2733c31
         dog.bark();
         cat.meow();
 
