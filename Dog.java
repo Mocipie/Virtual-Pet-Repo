@@ -19,4 +19,7 @@ public class Dog extends Pet {
     }
     public void fetch() {
 	System.out.println(getName() + " fetches el ball");
+
+    public void sleep() {
+	System.out.println(getName() + " is sleeping");
 }
